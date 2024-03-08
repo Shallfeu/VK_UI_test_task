@@ -1,0 +1,38 @@
+{
+  "typeOfGroupOptions": [
+    {
+      "label": "Закрытые группы",
+      "value": "closed"
+    },
+    {
+      "label": "Открытые группы",
+      "value": "opened"
+    },
+    {
+      "label": "Все группы",
+      "value": "all"
+    }
+  ],
+  "avatarGroupColorOptions": [
+    {
+      "label": "Все",
+      "value": "all"
+    },
+    {
+      "label": "Белый",
+      "value": "white"
+    },
+    {
+      "label": "Голубой",
+      "value": "blue"
+    },
+    {
+      "label": "Зеленый",
+      "value": "green"
+    },
+    {
+      "label": "Красный",
+      "value": "red"
+    }
+  ]
+}

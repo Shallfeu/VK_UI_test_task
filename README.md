@@ -1,5 +1,18 @@
 ## Профильное задание - Frontend-разработчик в команду сообществ
 
+---------------------------------------------------------------------------------------------------------------
+Comment from Chigvinzev Roman: 
+
+I've created it, but I still don't have an idea how correctly work with VKUI. I should spend more time with it to understand its core conceptions. It's not good for public UI library, in my opinion. 
+
+Public UI library should be easy to understand and should give the opportunity to start working as soon as possible. I haven't seen it here. For example, ChakraUI has more intuitive UI flow structure, very similar to native element that we use every day. 
+
+So, that is why my solution for this test task looks ugly. Sorry for that. I try my best to show my best skills, feel free to ask me question or to give another task to do. 
+
+Thank you for your time, have a nice day:)
+
+---------------------------------------------------------------------------------------------------------------
+
 Создайте простое react приложение, состоящее из одной страницы, которое при открытии будет запрашивать список групп с backend (замокайте ответ метода данными из файла `groups.json`).
 
 Типизация ответа метода получения групп `GetGroupsResponse`:
